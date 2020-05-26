@@ -11,63 +11,65 @@ The Main Projects in the NanoDegree are:
 
 
 
-Project 1: My First Neural Network 
-  Description:
+**Project 1: My First Neural Network** 
+  **_Description:_**
 
 
-  Technical Concepts Used:
+  **_Technical Concepts Used:_**
   
   
   
-  What I learned:
+  **_What I learned:_**
 
 
 
-Project 2: Dog Project 
-  Description:
+**Project 2: Dog Project** 
+  **_Description:_**
+
+
+  **_Technical Concepts Used:_**
   
-  Technical Concepts Used:
   
   
-  
-  What I learned:
+  **_What I learned:_**
   
 
 
-Project 3: Script Generation
-  Description:
-  
-  Technical Concepts Used:
-  
-  
-  
-  What I learned:
-  
-  
-  
+**Project 3: Script Generation**
+  **_Description:_**
 
-Project 4: Face Generation 
-  Description:
-  
-  Technical Concepts Used:
+
+  **_Technical Concepts Used:_**
   
   
   
-  What I learned:
+  **_What I learned:_**
   
   
   
 
-Project 5: Teach a Quadcopter to fly
-  Description:
-  
-  
-  Technical Concepts Used:
-  
+**Project 4: Face Generation** 
+  **_Description:_**
 
 
+  **_Technical Concepts Used:_**
+  
+  
+  
+  **_What I learned:_**
+  
+  
+  
 
-  What I learned:
+**Project 5: Teach a Quadcopter to fly**
+  **_Description:_**
+
+
+  **_Technical Concepts Used:_**
+  
+  
+  
+  **_What I learned:_**
   
   
   
