@@ -1,5 +1,5 @@
 # Udacity_DeepLearning_ND
-This Repository Contains my work going through the Deep Learning NanoDegree and any related materials that I completed in route to completing the NanoDegree.
+This Repository Contains my work going through the Deep Learning NanoDegree and any related materials that I completed in route to completing the NanoDegree.  There are 5 main projects in the program and many smaller mini projects, with some of that work being represented in this repository.  
 
 ## **Main Projects in the NanoDegree are:** 
   1. [My first Neural Network](#project-1-my-first-neural-network)
