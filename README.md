@@ -8,8 +8,10 @@ This Repository Contains my work going through the Deep Learning NanoDegree and 
   3. Script Generation 
   4. Face Generation (Not Yet Compeleted) 
   5. Teach a Quadcopter to fly (Not yet Completed)
+  
 
-###**Project 1: My First Neural Network** 
+###**Project 1: My First Neural Network**
+
 ####**_Description:_**
  The goal of this project is to build a multi-layer perceptron neural network in 
  order to predict bike sharing rates.  The network will predict the amount of 
