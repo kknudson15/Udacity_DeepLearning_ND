@@ -10,7 +10,6 @@ This Repository Contains my work going through the Deep Learning NanoDegree and 
   
 
 ## **Project 1: My First Neural Network**  
-[see code here](/First-Neural-Network)
 ### **_Description:_** 
  The goal of this project is to build a multi-layer perceptron neural network in 
  order to predict bike sharing rates.  The network will predict the amount of 
@@ -30,6 +29,8 @@ scratch using numpy.  I was able to implement concepts that are crucial to
 neural networks such as forward propagation, backpropagation, and cross entropy loss. 
 I also learned how to look at training and validation loss graphs to determine how to adjust 
 model parameters to improve the performance of the model.  
+
+[see code here](/First-Neural-Network)
 
 
 ## **Project 2: Dog Project** 
@@ -62,6 +63,7 @@ build CNNs in Keras and using the different type of layers to use create differe
 types of architectures.  This project allowed me to explore using pretrained models and adding layers 
 to the end of it to improve the performance without having to go through long training times. 
 
+[see code here](/dog-project)
 
 ## **Project 3: Script Generation**
 ### **_Description:_**
@@ -87,7 +89,9 @@ data set to reduce the training time.  It produced a script in Moe's Tavern.
   I had been using the Keras library to build the models at a higher level and this project 
   really made me learn the low level concepts that are involved in building these models.  Also, 
   I learned to implement the concepts behind recurrent neural networks and what makes them successful in 
-  tasks like natural language processing.  
+  tasks like natural language processing.
+  
+  [see code here](/tv-script-generation)
   
 
 ## **Project 4: Face Generation** 
