@@ -10,7 +10,7 @@ This Repository Contains my work going through the Deep Learning NanoDegree and 
   
 
 ## **Project 1: My First Neural Network**  
-
+[see code here](/First-Neural-Network)
 ### **_Description:_** 
  The goal of this project is to build a multi-layer perceptron neural network in 
  order to predict bike sharing rates.  The network will predict the amount of 
