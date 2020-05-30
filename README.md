@@ -111,6 +111,8 @@ In this project, I made a a GAN neural network to generate fake images of celebr
 ### **_What I learned:_**
 I learned how to implement a Generative Adversarial Network from scratch using tensorflow.  I also learned some of the theoretical concepts that are applied to building these networks.  I also worked with the various parameters within this type of network and how to optimize them to maximize the performance of the model.  Through my research into how to improve the perfromance of my model, I discovered techniques to help the GAN converge and improve the functionality of the model.  
   
+  
+[see code here](/Generate_faces)
 
 ## **Project 5: Teach a Quadcopter to fly**
   ### **_Description:_**
