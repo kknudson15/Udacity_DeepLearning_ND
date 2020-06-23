@@ -129,6 +129,10 @@ I learned how to implement a Generative Adversarial Network from scratch using t
   
   
   
+  ## **Other Mini Projects**
+  ### **_Mini Project Listings:_**
+  TBD
+  
   
   
   _*Please feel free to reference the code in this repository but please attempt 
