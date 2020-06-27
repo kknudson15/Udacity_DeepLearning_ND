@@ -5,7 +5,7 @@ This Repository Contains my work going through the Deep Learning NanoDegree and 
   1. [My first Neural Network](#project-1-my-first-neural-network)
   2. [Dog Project](#project-2-dog-project)
   3. [Script Generation](#project-3-script-generation)
-  4. [Face Generation (Not Yet Compeleted)](#project-4-face-generation) 
+  4. [Face Generation](#project-4-face-generation) 
   5. [Teach a Quadcopter to fly (Not yet Completed)](#project-5-teach-a-quadcopter-to-fly)
   
 
