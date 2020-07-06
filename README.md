@@ -116,18 +116,22 @@ I learned how to implement a Generative Adversarial Network from scratch using t
 
 ## **Project 5: Teach a Quadcopter to fly**
   ### **_Description:_**
-  TBD
+  In this Project, I worked with various Deep Reinforcment Learning concepts to implement an Actor Critic learning algorithm to teach a quadcopter to perform a specific task.  The initial task provided was teaching the quadcopter to take off and then it was expanded to a task that I specified.  The task that I designed was to teach the quadcopter to take off and fly to a specific coordinate.  The agent trained for this task shows signs of training but still needs additional refinement to improve the performance on the tasks.
 
 
   ### **_Technical Concepts Used:_**
-  TBD
-  
+    - Actor Critic Methods
+    - Environments, Actions, and Spaces
+    - Continious Space Reinforcement learning 
+    - Reward functions
+    - Task Design 
+    - Agent Training 
   
   
   ### **_What I learned:_**
-  TBD
-  
-  
+    By completing this project I was able to apply deep reinforcement concepts and train, design and test an agent on a difficult task.  Having experience with a project like this allows me to see how difficult training agents can be and the ways in which to improve the learning of agents.  Also, the great effect that tunin g hyper parameters has on the training/performance of the agent.  Also, this was a good experience constructing a deep reinforcement learning agent and constructing specific neural netowrks for this type of problem. 
+    
+   [see code here](/Teach-Quadcopter-To-Fly)
   
   ## **Other Mini Projects**
   ### **_Mini Project Listings:_**
