@@ -6,7 +6,7 @@ This Repository Contains my work going through the Deep Learning NanoDegree and 
   2. [Dog Project](#project-2-dog-project)
   3. [Script Generation](#project-3-script-generation)
   4. [Face Generation](#project-4-face-generation) 
-  5. [Teach a Quadcopter to fly (Not yet Completed)](#project-5-teach-a-quadcopter-to-fly)
+  5. [Teach a Quadcopter to fly](#project-5-teach-a-quadcopter-to-fly)
   
 
 ## **Project 1: My First Neural Network**  
@@ -120,16 +120,16 @@ I learned how to implement a Generative Adversarial Network from scratch using t
 
 
   ### **_Technical Concepts Used:_**
-    - Actor Critic Methods
-    - Environments, Actions, and Spaces
-    - Continious Space Reinforcement learning 
-    - Reward functions
-    - Task Design 
-    - Agent Training 
+   - Actor Critic Methods
+   - Environments, Actions, and Spaces
+   - Continious Space Reinforcement learning 
+   - Reward functions
+   - Task Design 
+   - Agent Training 
   
   
   ### **_What I learned:_**
-    By completing this project I was able to apply deep reinforcement concepts and train, design and test an agent on a difficult task.  Having experience with a project like this allows me to see how difficult training agents can be and the ways in which to improve the learning of agents.  Also, the great effect that tunin g hyper parameters has on the training/performance of the agent.  Also, this was a good experience constructing a deep reinforcement learning agent and constructing specific neural netowrks for this type of problem. 
+   By completing this project I was able to apply deep reinforcement concepts and train, design and test an agent on a difficult task.  Having experience with a project like this allows me to see how difficult training agents can be and the ways in which to improve the learning of agents.  Also, the great effect that tunin g hyper parameters has on the training/performance of the agent.  Also, this was a good experience constructing a deep reinforcement learning agent and constructing specific neural netowrks for this type of problem. 
     
    [see code here](/Teach-Quadcopter-To-Fly)
   
